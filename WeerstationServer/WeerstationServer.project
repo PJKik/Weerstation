@@ -95,4 +95,12 @@
   <VirtualDirectory Name="src">
     <File Name="main.cpp"/>
   </VirtualDirectory>
+  <VirtualDirectory Name="GrovePi">
+    <File Name="GrovePi/grovepi.c"/>
+    <File Name="GrovePi/grovepi.h"/>
+    <File Name="GrovePi/grovepi_analog_read.c"/>
+    <File Name="GrovePi/grovepi_analog_write.c"/>
+    <File Name="GrovePi/grovepi_digital_read.c"/>
+    <File Name="GrovePi/grovepi_digital_write.c"/>
+  </VirtualDirectory>
 </CodeLite_Project>
